@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: cambio Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: cambio
+  m_TableCollectionNameGuidString: 0487f1cf5624472479ad5d4084c94784
+  m_Entries:
+  - m_Id: 32064561152
+    m_Key: textTitulo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 170505953280
+    m_Key: textJugador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268552003584
+    m_Key: textPlay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368108003328
+    m_Key: textRecord
+    m_Metadata:
+      m_Items: []
+  - m_Id: 461527736320
+    m_Key: textScore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 513973313536
+    m_Key: textLevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 636648316928
+    m_Key: textGameover
+    m_Metadata:
+      m_Items: []
+  - m_Id: 796400967680
+    m_Key: textReplay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 874415022080
+    m_Key: textExit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 968803639296
+    m_Key: textFin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 196694447906816
+    m_Key: textOption
+    m_Metadata:
+      m_Items: []
+  - m_Id: 196812840525824
+    m_Key: textMenuop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 196948702420992
+    m_Key: textLanguaje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 197064666537984
+    m_Key: textBrigth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6136228360945664
+    m_Key: textMove
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 399972680380448792
+  references:
+    version: 2
+    RefIds:
+    - rid: 399972680380448792
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1680362029185

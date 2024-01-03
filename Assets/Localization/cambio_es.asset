@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: cambio_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 0487f1cf5624472479ad5d4084c94784, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 32064561152
+    m_Localized: Pulpo hambriento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 170505953280
+    m_Localized: Jugador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268552003584
+    m_Localized: Jugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368108003328
+    m_Localized: "R\xE9cord:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 461527736320
+    m_Localized: Puntaje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 513973313536
+    m_Localized: Nivel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 636648316928
+    m_Localized: Juego terminado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 796400967680
+    m_Localized: Reiniciar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 874415022080
+    m_Localized: Salir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 968803639296
+    m_Localized: "\xA1Felicitaciones, has terminado todos los niveles del juego!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 196694447906816
+    m_Localized: Opciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 196812840525824
+    m_Localized: "Men\xFA de opciones"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 196948702420992
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 197064666537984
+    m_Localized: Brillo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6136228360945664
+    m_Localized: Movimiento
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
